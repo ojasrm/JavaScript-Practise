@@ -8,6 +8,7 @@ let foods = {
 foods.bananas = 13;
 foods.grapes = 35;
 foods.strawberries = 27;
+foods.plums = 23;
 // Only change code above this line
 
 console.log(foods);
